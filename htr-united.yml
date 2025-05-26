@@ -1,0 +1,29 @@
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+title: DLA_ArcheoPol_FR_16
+url: https://github.com/NicolasChampeaux/DLA_ArcheoPol_FR_16
+authors: []
+institutions: []
+description: >-
+  This repository contains data on the segmentation of early modern printed
+  French texts (c. 1570).
+project-name: Archéo-Pol - La bibliothèque des monarchomaques
+language:
+  - fra
+production-software: eScriptorium + Kraken
+automatically-aligned: false
+script:
+  - iso: Latn
+script-type: only-typed
+time:
+  notBefore: '1560'
+  notAfter: '1600'
+hands:
+  count: '1'
+  precision: exact
+license:
+  name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+format: Alto-XML
+volume:
+  - metric: pages
+    count: 1000
