@@ -7,8 +7,8 @@ characters:
   - i
   - a
   - n
-  - t
   - r
+  - t
   - o
   - l
   - ſ
@@ -22,96 +22,104 @@ characters:
   - ’
   - y
   - f
+  - g
   - .
   - '&'
-  - g
-  - ¬
   - b
+  - ¬
   - v
   - h
   - ́
-  - R
-  - x
   - ̀
+  - x
   - ̃
+  - R
   - E
   - ':'
-  - C
-  - P
   - I
+  - C
   - A
   - z
-  - S
+  - P
   - D
   - L
-  - '1'
+  - S
   - M
   - '-'
-  - T
+  - '1'
   - O
-  - F
-  - '2'
+  - T
   - V
+  - F
   - G
-  - N
-  - '3'
-  - Q
-  - '4'
-  - ̧
+  - '2'
   - "'"
-  - B
-  - '5'
-  - '6'
-  - '?'
+  - N
+  - Q
   - (
   - )
+  - ̧
+  - '3'
+  - '4'
+  - '?'
+  - B
+  - H
+  - '5'
+  - '6'
   - '7'
   - '8'
   - '9'
   - '0'
-  - H
-  - ̈
   - œ
+  - ̈
   - j
-  - æ
-  - X
   - ;
-  - Z
-  - ¶
-  - ̂
-  - Y
-  - K
-  - ι
+  - æ
   - '!'
-  - U
-  - '*'
+  - X
+  - Z
+  - ̂
   - ̨
+  - ¶
+  - U
+  - Y
+  - '*'
+  - K
+  - J
+  - ß
+  - k
+  - ι
   - ꝰ
   - ο
-  - k
-  - ᑕ
   - Æ
+  - 
+  - ᑕ
+  - ς
   - ⁹
   - ᗅ
-  - J
   - ·
-  - ς
-  - φ
   - γ
-  - ß
+  - φ
+  - σ
+  - η
+  - τ
+  - ɇ
   - /
   - ω
   - ψ
   - ζ
   - χ
   - θ
-  - σ
   - ρ
   - α
   - δ
   - π
   - ε
   - ᗞ
+  - ⟦
+  - υ
+  - „
+  - ']'
   mode: NFD
 description: >-
   This repository contains data on the segmentation of early modern printed
@@ -138,13 +146,13 @@ time:
 title: DLA_ArcheoPol_FR_16
 url: https://github.com/NicolasChampeaux/DLA_ArcheoPol_FR_16
 volume:
-- count: 957078
+- count: 1423996
   metric: characters
-- count: 800
+- count: 1190
   metric: files
-- count: 27781
+- count: 40830
   metric: lines
 - count: 1000
   metric: pages
-- count: 3780
+- count: 6524
   metric: regions
