@@ -81,8 +81,8 @@ characters:
   - ̂
   - ̨
   - ¶
-  - U
   - Y
+  - U
   - '*'
   - K
   - J
@@ -119,7 +119,6 @@ characters:
   - ⟦
   - υ
   - „
-  - ']'
   mode: NFD
 description: >-
   This repository contains data on the segmentation of early modern printed
@@ -146,13 +145,13 @@ time:
 title: DLA_ArcheoPol_FR_16
 url: https://github.com/NicolasChampeaux/DLA_ArcheoPol_FR_16
 volume:
-- count: 1423996
+- count: 1423984
   metric: characters
 - count: 1190
   metric: files
-- count: 40830
+- count: 40828
   metric: lines
 - count: 1000
   metric: pages
-- count: 6524
+- count: 6520
   metric: regions
