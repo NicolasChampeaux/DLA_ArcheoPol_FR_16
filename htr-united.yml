@@ -1,29 +1,150 @@
-schema: https://htr-united.github.io/schema/2023-06-27/schema.json
-title: DLA_ArcheoPol_FR_16
-url: https://github.com/NicolasChampeaux/DLA_ArcheoPol_FR_16
 authors: []
-institutions: []
+automatically-aligned: false
+characters:
+  members:
+  - e
+  - u
+  - i
+  - a
+  - n
+  - t
+  - r
+  - o
+  - l
+  - ſ
+  - s
+  - d
+  - c
+  - p
+  - m
+  - ','
+  - q
+  - ’
+  - y
+  - f
+  - .
+  - '&'
+  - g
+  - ¬
+  - b
+  - v
+  - h
+  - ́
+  - R
+  - x
+  - ̀
+  - ̃
+  - E
+  - ':'
+  - C
+  - P
+  - I
+  - A
+  - z
+  - S
+  - D
+  - L
+  - '1'
+  - M
+  - '-'
+  - T
+  - O
+  - F
+  - '2'
+  - V
+  - G
+  - N
+  - '3'
+  - Q
+  - '4'
+  - ̧
+  - "'"
+  - B
+  - '5'
+  - '6'
+  - '?'
+  - (
+  - )
+  - '7'
+  - '8'
+  - '9'
+  - '0'
+  - H
+  - ̈
+  - œ
+  - j
+  - æ
+  - X
+  - ;
+  - Z
+  - ¶
+  - ̂
+  - Y
+  - K
+  - ι
+  - '!'
+  - U
+  - '*'
+  - ̨
+  - ꝰ
+  - ο
+  - k
+  - ᑕ
+  - Æ
+  - ⁹
+  - ᗅ
+  - J
+  - ·
+  - ς
+  - φ
+  - γ
+  - ß
+  - /
+  - ω
+  - ψ
+  - ζ
+  - χ
+  - θ
+  - σ
+  - ρ
+  - α
+  - δ
+  - π
+  - ε
+  - ᗞ
+  mode: NFD
 description: >-
   This repository contains data on the segmentation of early modern printed
   French texts (c. 1570).
-project-name: Archéo-Pol - La bibliothèque des monarchomaques
-language:
-  - fra
-production-software: eScriptorium + Kraken
-automatically-aligned: false
-script:
-  - iso: Latn
-script-type: only-typed
-time:
-  notBefore: '1560'
-  notAfter: '1600'
+format: Alto-XML
 hands:
   count: '1'
   precision: exact
+institutions: []
+language:
+- fra
 license:
   name: CC-BY 4.0
   url: https://creativecommons.org/licenses/by/4.0/
-format: Alto-XML
+production-software: eScriptorium + Kraken
+project-name: Archéo-Pol - La bibliothèque des monarchomaques
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+script:
+- iso: Latn
+script-type: only-typed
+time:
+  notAfter: '1600'
+  notBefore: '1560'
+title: DLA_ArcheoPol_FR_16
+url: https://github.com/NicolasChampeaux/DLA_ArcheoPol_FR_16
 volume:
-  - metric: pages
-    count: 1000
+- count: 957078
+  metric: characters
+- count: 800
+  metric: files
+- count: 27781
+  metric: lines
+- count: 1000
+  metric: pages
+- count: 3780
+  metric: regions
